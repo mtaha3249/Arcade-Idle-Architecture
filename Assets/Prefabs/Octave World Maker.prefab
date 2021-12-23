@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9180609247516069335
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9180609247516069330}
+  - component: {fileID: 9180609247516069333}
+  - component: {fileID: 9180609247516069332}
+  m_Layer: 0
+  m_Name: Octave World Maker
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9180609247516069330
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9180609247516069335}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9180609247516069333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9180609247516069335}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2c28772ec13a3f4d9acba5c5525e400, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _transform: {fileID: 9180609247516069330}
+  _showGUIHints: 0
+  _octave3DScene: {}
+  _prefabPreviewGenerator:
+    _renderCamera: {fileID: 0}
+    _previewLights:
+    - {fileID: 0}
+  _editorWindowPool: {fileID: 9180609247516069332}
+  _prefabCategoryDatabase: {fileID: 0}
+  _objectLayerDatabase: {fileID: 0}
+  _prefabTagDatabase: {fileID: 0}
+  _objectPlacementPathHeightPatternDatabase: {fileID: 0}
+  _objectPlacementPathTileConnectionConfigurationDatabase: {fileID: 0}
+  _decorPaintObjectPlacementBrushDatabase: {fileID: 0}
+  _placementObjectGroupDatabase: {fileID: 0}
+  _objectPlacement: {fileID: 0}
+  _objectSnapping: {fileID: 0}
+  _objectEraser: {fileID: 0}
+  _objectSelection: {fileID: 0}
+  _prefabsToCategoryDropEventHandler:
+    _prefabsDropSettings: {fileID: 0}
+    _prefabFoldersDropSettings: {fileID: 0}
+  _prefabsToPathTileConnectionDropEventHandler:
+    _dropSettings: {fileID: 0}
+  _inspector: {fileID: 0}
+  _meshCombineSettings: {fileID: 0}
+  _shaderPool:
+    _gridShader: {fileID: 4800000, guid: 06932e1e9899b5e429681a49da9c80cd, type: 3}
+  _materialPool:
+    _xzGridMaterial: {fileID: 0}
+--- !u!114 &9180609247516069332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9180609247516069335}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd15cbbeb80414648bab7c15830b8255, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _allWindows:
+  - {fileID: 0}
+  _prefabManagementWindow: {fileID: 0}
+  _objectPlacementSettingsWindow: {fileID: 0}
+  _prefabsToCategoryDropSettingsWindow: {fileID: 0}
+  _prefabTagsWindow: {fileID: 0}
+  _objectLayersWindow: {fileID: 0}
+  _selectionGrabSettingsWindow: {fileID: 0}
+  _octave3DConfigSaveWindow: {fileID: 0}
+  _octave3DConfigLoadWindow: {fileID: 0}
+  _decorPaintBrushViewLookAndFeelWindow: {fileID: 0}
+  _activePrefabCategoryView:
+    _isVisible: 1
+    _toggleVisibilityBeforeRender: 1
+    _visibilityToggleLabel: Active Prefab Category View
+    _visibilityToggleIndent: 0
+    _indentContent: 0
+    _surroundWithBox: 1
+    _viewData: {fileID: 0}
+    _prefabScrollView:
+      _isVisible: 1
+      _toggleVisibilityBeforeRender: 0
+      _visibilityToggleLabel: 
+      _visibilityToggleIndent: 0
+      _indentContent: 0
+      _surroundWithBox: 0
+      _viewData: {fileID: 0}
+  _activePrefabView:
+    _isVisible: 0
+    _toggleVisibilityBeforeRender: 1
+    _visibilityToggleLabel: Active Prefab View
+    _visibilityToggleIndent: 0
+    _indentContent: 0
+    _surroundWithBox: 1

@@ -1,0 +1,6 @@
+using UnityEngine;
+
+[CreateAssetMenu(fileName = "#VARIABLENAME#", menuName = "SO-Architecture/Variable/#SCRIPTNAME#")]
+public class #SCRIPTNAME# : GenericVariable<#TYPE#>
+{
+}

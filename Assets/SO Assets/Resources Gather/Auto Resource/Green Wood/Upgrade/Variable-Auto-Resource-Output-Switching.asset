@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd118e833ad534f6795f3d1dbe352f34, type: 3}
+  m_Name: Variable-Auto-Resource-Output-Switching
+  m_EditorClassIdentifier: 
+  developerInstuction: Upgrade Auto Resource Collection
+  _itemLevel: 1
+  _autoCollection:
+  - {fileID: 11400000, guid: d66d30e3cc6984642ba4054127e9e37a, type: 2}
+  - {fileID: 11400000, guid: e49e9844f4ec9401ea85254994cc4002, type: 2}

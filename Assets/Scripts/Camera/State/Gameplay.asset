@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51bf29b806831428a86d768087b10727, type: 3}
+  m_Name: Gameplay
+  m_EditorClassIdentifier: 
+  deafultFOV: 60
+  changeFOV: 0
+  targetFOV: 90
+  fOVChangeSpeed: 0.25
+  defaultFOVChangeSpeed: 1
+  posOffset: {x: 0, y: 0, z: -2}
+  lookOffset: {x: 40, y: 0, z: 0}
+  developerNote: Follow Target and Look At given offset by offset
+  followSpeed: 4
+  lookSpeed: 10

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af6158a02143642cfa5010ffe02f1979, type: 3}
+  m_Name: Variable-Auto-Resource-Output-Green-Wood
+  m_EditorClassIdentifier: 
+  developerInstuction: Auto Collected Green Wood
+  _UI: {fileID: 11400000, guid: f883d7f5765d743a1816b26e3246a9cd, type: 2}
+  _currentCollected:
+    UseConstant: 0
+    ConstantValue: 0
+    Variable: {fileID: 11400000, guid: fa646c8fa35424365b582340030304a7, type: 2}
+  _prefab: {fileID: 6044029813680115523, guid: 5e4880657792e466884abc5bb9ee8b46, type: 3}

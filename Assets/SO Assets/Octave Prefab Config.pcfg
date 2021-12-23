@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PrefabConfig>
+	<PrefabTags>
+	</PrefabTags>
+	<PrefabCategories>
+		<Category>
+			<Name>Default</Name>
+			<ObjectGroupName>Ground</ObjectGroupName>
+		</Category>
+		<Category>
+			<Name>Ground</Name>
+			<ObjectGroupName>Ground</ObjectGroupName>
+			<Prefab>
+				<Name>Patch</Name>
+				<Path>Assets/Prefabs/Environment/Patch 4 Tree.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Patch Mountain</Name>
+				<Path>Assets/Prefabs/Environment/Patch Mountain.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>River Straight</Name>
+				<Path>Assets/Prefabs/Environment/River Straight.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>River Bridge</Name>
+				<Path>Assets/Prefabs/Environment/River Bridge.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>River End</Name>
+				<Path>Assets/Prefabs/Environment/River End.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Patch 2 Tree</Name>
+				<Path>Assets/Prefabs/Environment/Patch 2 Tree.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Patch 1 Tree</Name>
+				<Path>Assets/Prefabs/Environment/Patch 1 Tree.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>River Corner</Name>
+				<Path>Assets/Prefabs/Environment/River Corner.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+		</Category>
+		<Category>
+			<Name>Resource Spots</Name>
+			<ObjectGroupName>ResourceSpot</ObjectGroupName>
+			<Prefab>
+				<Name>Resource Maker</Name>
+				<Path>Assets/Prefabs/Environment/Resource Smelter.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Mine Resource</Name>
+				<Path>Assets/Prefabs/Environment/Mine Resource.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Fish Catcher</Name>
+				<Path>Assets/Prefabs/Environment/Resource Fish Catcher.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+		</Category>
+		<Category>
+			<Name>Upgradeable</Name>
+			<ObjectGroupName>Upgradeable</ObjectGroupName>
+			<Prefab>
+				<Name>Market</Name>
+				<Path>Assets/Prefabs/Environment/Market.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Upgrade</Name>
+				<Path>Assets/Prefabs/Environment/Upgrade.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+		</Category>
+		<Category>
+			<Name>Sea</Name>
+			<ObjectGroupName>Sea</ObjectGroupName>
+			<Prefab>
+				<Name>Water Sea Boat</Name>
+				<Path>Assets/Prefabs/Environment/Water Sea Boat.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Water Sea Stone</Name>
+				<Path>Assets/Prefabs/Environment/Water Sea Stone.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Water Sea</Name>
+				<Path>Assets/Prefabs/Environment/Water Sea.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+		</Category>
+	</PrefabCategories>
+		<PrefabScrollViewLookAndFeel>
+			<NumPrefabsPerRow>6</NumPrefabsPerRow>
+			<PrefabPreviewScale>1</PrefabPreviewScale>
+			<PrefabScrollViewHeight>200</PrefabScrollViewHeight>
+			<ActivePrefabTint>0.639,0.909,1,1</ActivePrefabTint>
+			<ShowPrefabNames>False</ShowPrefabNames>
+			<PrefabNameLabelColor>0,0,0,1</PrefabNameLabelColor>
+		</PrefabScrollViewLookAndFeel>
+</PrefabConfig>
